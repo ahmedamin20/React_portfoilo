@@ -1,0 +1,126 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Web",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Desktop Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/portfolio/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/portfolio/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/portfolio/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/portfolio/portfolio-img8.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook",
+            "background":"#3b5998"
+
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter",
+            "background":"#498cbf"
+
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest",
+            "background":"#cc2127"
+        }
+    ] ,
+    "skills":[
+        
+        {
+            "id":1,
+            "title":"HTML",
+            "percentage":98
+        },
+        {
+            "id":2,
+            "title":"CSS",
+            "percentage":98
+        },
+        {
+            "id":3,
+            "title":"Java Script",
+            "percentage":95
+        },
+        {
+            "id":4,
+            "title":"ES6",
+            "percentage":90
+        },
+        {
+            "id":5,
+            "title":"BootStrap",
+            "percentage":80
+        },
+        {
+            "id":6,
+            "title":"React",
+            "percentage":75
+        }
+    ],
+    "developer":[
+    {
+    "id":1,
+    "name":"Ahemd Amin",
+    "phone":"01147398918",
+    "email":"tc.supply6@gmail.com",
+    "BirthDate":"25/4/2001",
+    "Address":"Egypt,Giza,ELharam ST",
+    "website":"www.google.com"
+}
+    ]
+}
